@@ -35,5 +35,5 @@ To run these notebooks, you need the following Python libraries installed:
 3.  Run the cells to see the retrieval results for query images.
 
 ---
-**Repository**: [CV-Lab-Task-09](https://github.com/nur-ul-amin/CV-Lab-Task-09)  
-**Author**: Nur-ul-Amin
+**Repository**: [CV-Lab-Task-09]  
+**Author**: Zakariya Shahid 
